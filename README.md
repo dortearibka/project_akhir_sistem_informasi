@@ -1,2 +1,2 @@
-# Tugas Akhir Sistem Informasi
+# Project Akhir Sistem Informasi
 # StokInfoBarang
