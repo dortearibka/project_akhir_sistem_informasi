@@ -1,1 +1,1 @@
-# StokInfoWeb
+# StokInfoBarang
